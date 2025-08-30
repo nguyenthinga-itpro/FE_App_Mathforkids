@@ -1,0 +1,13 @@
+{
+  "taskTitle": "Nhiệm vụ",
+  "target": "Đang thực hiện",
+  "success": "Đã hoàn thành",
+  "exercise": "Bài tập",
+  "reward": "Phần thưởng",
+  "expired": "Đã hết hạn",
+  "end": "Kết thúc",
+  "noTasks": "Không có nhiệm vụ nào",
+  "taskExpired": "Nhiệm vụ đã hết hạn!",
+  "request": "Hoàn thành bài học:",
+  "taskCompleted": "Hoàn thành tốt!"
+}

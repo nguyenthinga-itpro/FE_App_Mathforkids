@@ -1,0 +1,11 @@
+{
+  "lesson": "Lesson",
+  "exercise_one": "Exercise one",
+  "quantity": "Quantity: {{count}} questions",
+  "time": "Time: {{minutes}} min",
+  "level": "Level: {{level}}",
+  "go_to_step_by_step": "View the calculation steps of the example",
+  "practice_custom_problem": "Calculation steps",
+  "swipe_hint": "Swipe left or right to see more",
+  "noData":"No have data"
+}

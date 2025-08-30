@@ -1,0 +1,14 @@
+{
+  "notification": "Thông báo",
+  "noTitle": "Không có tiêu đề",
+  "noContent": "Không có nội dung",
+  "success": "Thành công",
+  "rewardConfirmed": "Phần thưởng đã được xác nhận thành công!",
+  "ok": "Đồng ý",
+  "error": "Lỗi",
+  "failedToConfirm": "Không thể xác nhận phần thưởng. Vui lòng thử lại.",
+  "acceptReward": "Chấp nhận phần thưởng",
+  "goToTasks": "Đi đến nhiệm vụ",
+  "notifyRewardConfirmedTitle": "Xác nhận phần thưởng",
+  "notifyRewardConfirmedContent": "Chúc mừng! Phần thưởng {{reward}} của bạn đã được phụ huynh phê duyệt."
+}

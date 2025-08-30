@@ -1,0 +1,22 @@
+{
+  "headerTitle": "Multiplication table",
+  "selectedOneTable": "Select one multiplication table",
+  "tableTwo": "Multiplication table two",
+  "tableThree": "Multiplication table three",
+  "tableFour": "Multiplication table four",
+  "tableFive": "Multiplication table five",
+  "tableSix": "Multiplication table six",
+  "tableSeven": "Multiplication table seven",
+  "tableEight": "Multiplication table eight",
+  "tableNine": "Multiplication table nine",
+  "memorize": "Memorize",
+  "explanation": "Take the number {{multiplicand}} plus itself {{multiplier}} {{times}}.",
+  "time": "time",
+  "times": "times",
+  "next": "Next",
+  "practice": "Practice",
+  "timesWord": "times",
+  "equalsWord": "equals",
+  "selectNumberInBox": "Select the appropriate number in the box",
+  "submit": "Submit"
+}

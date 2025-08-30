@@ -1,0 +1,14 @@
+{
+  "step_add": "Step {{step}}: Add {{label}} digits: {{d1}} + {{d2}}{{carryText}} = {{sum}}, write {{resultDigit}}{{carryOutText}}.",
+  "step_final_result": "Final result: {{n1}} + {{n2}} = {{result}}",
+  "units": "Units",
+  "tens": "Tens",
+  "hundreds": "Hundreds",
+  "thousands": "Thousands",
+  "tenThousands": "Ten Thousands",
+  "hundredThousands": "Hundred Thousands",
+  "millions": "Millions",
+  "tenMillions": "Ten Millions",
+  "hundredMillions": "Hundred Millions",
+  "billions": "Billions"
+}

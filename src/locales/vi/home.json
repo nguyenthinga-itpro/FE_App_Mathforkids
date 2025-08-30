@@ -1,0 +1,11 @@
+{
+  "hello": "Xin chào!",
+  "grade": "Lớp {{value}}",
+  "select_skill": "Chọn kỹ năng",
+  "Addition": "Cộng",
+  "Subtraction": "Trừ",
+  "Multiplication": "Nhân",
+  "Division": "Chia",
+  "Expression": "Bảng cửu chương",
+  "loading": "Tải lớp..."
+}

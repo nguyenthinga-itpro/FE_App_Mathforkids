@@ -1,0 +1,18 @@
+export const Fonts = {
+  NUNITO_EXTRA_LIGHT: "Nunito-ExtraLight",
+  NUNITO_EXTRA_LIGHT_ITALIC: "Nunito-ExtraLightItalic",
+  NUNITO_LIGHT: "Nunito-Light",
+  NUNITO_LIGHT_ITALIC: "Nunito-LightItalic",
+  NUNITO_REGULAR: "Nunito-Regular",
+  NUNITO_ITALIC: "Nunito-Italic",
+  NUNITO_MEDIUM: "Nunito-Medium",
+  NUNITO_MEDIUM_ITALIC: "Nunito-MediumItalic",
+  NUNITO_SEMI_BOLD: "Nunito-SemiBold",
+  NUNITO_SEMI_BOLD_ITALIC: "Nunito-SemiBoldItalic",
+  NUNITO_BOLD: "Nunito-Bold",
+  NUNITO_BOLD_ITALIC: "Nunito-BoldItalic",
+  NUNITO_EXTRA_BOLD: "Nunito-ExtraBold",
+  NUNITO_EXTRA_BOLD_ITALIC: "Nunito-ExtraBoldItalic",
+  NUNITO_BLACK: "Nunito-Black",
+  NUNITO_BLACK_ITALIC: "Nunito-BlackItalic",
+};

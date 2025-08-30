@@ -1,0 +1,16 @@
+{
+  "menu": "Menu",
+  "home": "Home",
+  "statistics": "Statistics",
+  "privacy": "Privacy",
+  "profile": "Profile",
+  "viewProfile": "View profile",
+  "goals": "Goals",
+  "rank": "Rank",
+  "target": "Tasks",
+  "notification": "Notification",
+  "reward": "Reward",
+  "setting": "Setting",
+  "contact": "Contact",
+  "logout": "Logout"
+}

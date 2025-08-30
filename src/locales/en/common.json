@@ -1,0 +1,23 @@
+{
+  "lesson": "Lesson",
+  "exercise": "Exercise",
+  "test": "Test",
+  "game": "Game",
+  "mission": "Mission",
+  "Addition": "Addition",
+  "Subtraction": "Subtraction",
+  "Multiplication": "Multiplication",
+  "Division": "Division",
+  "Expression": "Expression",
+  "edit": "Edit",
+  "save": "Save",
+  "cancel": "Cancel",
+  "success": "Success",
+  "error": "Error",
+  "selectOption": "Select option...",
+  "male": "Male",
+  "female": "Female",
+  "grade": "Grade",
+  "loading": "Loading...",
+  "contact": "Contact"
+}

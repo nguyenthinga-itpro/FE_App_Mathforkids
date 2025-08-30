@@ -1,0 +1,13 @@
+{
+  "assessment": "Assessment",
+  "grade": "Grade",
+  "answered": "Answered",
+  "warning": "Warning",
+  "unansweredQuestions": "You have unanswered question(s). Would you like to submit now or continue answering?",
+  "keepDoing": "Continue",
+  "submit": "Submit",
+  "yourScore": "Your Score",
+  "correctAnswers": "Correct Answers",
+  "ok": "OK",
+  "question": "Question"
+}

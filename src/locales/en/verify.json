@@ -1,0 +1,17 @@
+{
+  "verifyTitle": "Verify",
+  "subtitle": "Enter the code sent to your {{method}}:",
+  "byEmail": "email",
+  "byPhone": "phone number",
+  "verifyButton": "Verify",
+  "noCode": "Didn't receive the code?",
+  "resendLink": "Resend",
+  "errorTitle": "Error",
+  "successTitle": "Success",
+  "okButton": "OK",
+  "errorIncompleteOtp": "Please enter all 4 OTP digits",
+  "errorVerifyFailed": "OTP verification failed",
+  "successVerified": "Verification successful!",
+  "resendSuccess": "Resend code successfully!",
+  "resendFailed": "Resend code failed"
+}

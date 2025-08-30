@@ -1,0 +1,15 @@
+{
+  "setting": "Cài đặt",
+  "music": "Âm nhạc",
+  "volume": "Âm lượng: {{value}}%",
+  "language": "Ngôn ngữ",
+  "mode": "Chế độ",
+  "theme": "Giao diện",
+  "dark": "Tối",
+  "light": "Sáng",
+  "capybara": "Hải ly",
+  "animal": "Động vật",
+  "super_hero": "Siêu anh hùng",
+  "english": "Tiếng Anh",
+  "vietnamese": "Tiếng Việt"
+}

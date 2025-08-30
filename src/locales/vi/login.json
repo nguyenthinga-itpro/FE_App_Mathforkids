@@ -1,0 +1,14 @@
+{
+  "title": "Đăng nhập",
+  "placeholder": "Nhập số điện thoại hoặc email",
+  "loginButton": "Đăng nhập",
+  "noAccount": "Bạn chưa có tài khoản?",
+  "registerLink": "Đăng ký",
+  "errorTitle": "Lỗi",
+  "invalidTitle": "Không hợp lệ",
+  "errorEnterContact": "Vui lòng nhập số điện thoại hoặc email của bạn.",
+  "errorInvalidContact": "Định dạng số điện thoại hoặc email không hợp lệ.",
+  "errorSendOtp": "Gửi OTP không thành công.",
+  "errorNoUserId": "Không tìm thấy ID người dùng.",
+  "loginFailedTitle": "Đăng nhập không thành công"
+}

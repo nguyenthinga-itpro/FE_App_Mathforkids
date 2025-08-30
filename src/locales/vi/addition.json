@@ -1,0 +1,14 @@
+{
+  "step_add": "Bước {{step}}: Cộng hàng {{label}}: {{d1}} + {{d2}}{{carryText}} = {{sum}}, viết {{resultDigit}}{{carryOutText}}.",
+  "step_final_result": "Kết quả cuối cùng: {{n1}} + {{n2}} = {{result}}",
+  "units": "Đơn vị",
+  "tens": "Hàng chục",
+  "hundreds": "Hàng trăm",
+  "thousands": "Hàng nghìn",
+  "tenThousands": "Hàng chục nghìn",
+  "hundredThousands": "Hàng trăm nghìn",
+  "millions": "Hàng triệu",
+  "tenMillions": "Hàng chục triệu",
+  "hundredMillions": "Hàng trăm triệu",
+  "billions": "Tỷ"
+}

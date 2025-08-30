@@ -1,0 +1,16 @@
+{
+  "step_main": "Bước {{step}}: {{current}} chia {{divisor}} được {{result}}. Viết {{result}} vào thương. {{result}} × {{divisor}} = {{sub}}, rồi trừ: {{current}} - {{sub}} = {{remainder}}.",
+  "step_smaller_and_bring_down": "Bước {{step}}: {{current}} nhỏ hơn {{divisor}}, chưa chia được. Hạ thêm {{nextDigit}} thành {{afterBringDown}}.",
+  "step_smaller_write_zero": "Bước {{step}}: {{current}} nhỏ hơn {{divisor}}, viết 0 vào thương.",
+  "step_cannot_divide": "Bước {{step}}: {{dividend}} nhỏ hơn {{divisor}}, không chia được. Viết 0.",
+  "step_compare_less": "Bước {{step}}: {{current}} nhỏ hơn {{divisor}}, chưa đủ để chia.",
+  "step_bring_down": "Bước {{step}}: Hạ {{nextDigit}} xuống, ta được {{afterBringDown}}.",
+  "step_divide": "Bước {{step}}: Tìm số nào nhân với {{divisor}} gần bằng {{current}} mà không vượt quá. {{divisor}} × {{result}} = {{product}} là đúng. Vậy thương là {{result}}.",
+  "step_multiply": "Bước {{step}}: Lấy {{result}} nhân với {{divisor}} được {{product}}.",
+  "step_subtract": "Bước {{step}}: Lấy {{current}} trừ {{product}} được {{remainder}}.",
+  "step_choose_number": "Bước {{step}}: {{current}} {{comparison}} {{divisor}}, {{explanation}}",
+  "comparison.less": "nhỏ hơn",
+  "comparison.greater_equal": "lớn hơn hoặc bằng",
+  "explanation.less": "chưa chia được. Ta lấy thêm số phía sau.",
+  "explanation.greater_equal": "chia được. Ta bắt đầu chia."
+}

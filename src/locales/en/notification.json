@@ -1,0 +1,14 @@
+{
+  "notification": "Notifications",
+  "noTitle": "No title",
+  "noContent": "No content",
+  "success": "Success",
+  "rewardConfirmed": "Reward confirmed successfully!",
+  "ok": "OK",
+  "error": "Error",
+  "failedToConfirm": "Failed to confirm the reward. Please try again.",
+  "acceptReward": "Accept Reward",
+  "goToTasks": "Go to Tasks",
+  "notifyRewardConfirmedTitle": "Confirm reward",
+  "notifyRewardConfirmedContent": "Congratulations! Your reward {{reward}} has been approved by your parent."
+}

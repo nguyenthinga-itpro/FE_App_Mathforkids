@@ -1,0 +1,12 @@
+{
+  "hello": "Hello!",
+  "grade": "Grade {{value}}",
+  "select_skill": "Select skill",
+  "Addition": "Addition",
+  "Subtraction": "Subtraction",
+  "Multiplication": "Multiplication",
+  "Division": "Division",
+  "Expression": "Expression",
+  "loading":"Loading grade..."
+
+}

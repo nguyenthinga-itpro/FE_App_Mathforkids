@@ -1,0 +1,15 @@
+{
+  "setting": "Setting",
+  "music": "Music",
+  "volume": "Volume: {{value}}%",
+  "language": "Language",
+  "mode": "Mode",
+  "theme": "Theme",
+  "dark": "Dark",
+  "light": "Light",
+  "capybara": "Capybara",
+  "animal": "Animal",
+  "super_hero": "Super Hero",
+  "english": "English",
+  "vietnamese": "Vietnamese"
+}

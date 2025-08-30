@@ -1,0 +1,18 @@
+{
+  "title": "Account",
+  "subtitle": "Select an account",
+  "parent": "Parent",
+  "confirmTitle": "Confirm",
+  "confirmPupil": "Play as \"{{name}}\"?",
+  "yes": "Yes",
+  "no": "No",
+  "enterPin": "Enter PIN to continue",
+  "forgotPin": "Forgot PIN",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "invalidPinTitle": "Invalid PIN",
+  "invalidPinMsg": "Please enter all 4 digits.",
+  "incorrectPinTitle": "Incorrect PIN",
+  "incorrectPinMsg": "The PIN you entered is incorrect.",
+  "errorTitle": "Error"
+}

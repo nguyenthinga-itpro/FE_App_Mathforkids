@@ -1,0 +1,17 @@
+{
+  "verifyTitle": "Xác thực",
+  "subtitle": "Nhập mã được gửi đến {{method}} của bạn:",
+  "byEmail": "email",
+  "byPhone": "số điện thoại",
+  "verifyButton": "Xác thực",
+  "noCode": "Chưa nhận mã?",
+  "resendLink": "Gửi lại",
+  "errorTitle": "Lỗi",
+  "successTitle": "Thành công",
+  "okButton": "OK",
+  "errorIncompleteOtp": "Vui lòng nhập đủ 4 chữ số OTP",
+  "errorVerifyFailed": "Xác thực OTP thất bại",
+  "successVerified": "Xác thực thành công!",
+  "resendSuccess": "Gửi lại mã thành công!",
+  "resendFailed": "Gửi lại mã thất bại"
+}

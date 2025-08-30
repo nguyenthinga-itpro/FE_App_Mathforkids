@@ -1,0 +1,21 @@
+{
+  "step_main": "Step {{step}}: {{current}} ÷ {{divisor}} = {{result}}. Write {{result}} in the quotient. {{result}} × {{divisor}} = {{sub}}, then subtract: {{current}} - {{sub}} = {{remainder}}.",
+  "step_smaller_and_bring_down": "Step {{step}}: {{current}} is smaller than {{divisor}}, so bring down {{nextDigit}} to make {{afterBringDown}}.",
+  "step_smaller_write_zero": "Step {{step}}: {{current}} is smaller than {{divisor}}, write 0 in the quotient.",
+  "step_cannot_divide": "Step {{step}}: {{dividend}} is smaller than {{divisor}}, cannot divide. Write 0.",
+  "step_compare_less": "Step {{step}}: {{current}} is less than {{divisor}}, not enough to divide.",
+  "step_bring_down": "Step {{step}}: Bring down {{nextDigit}}, we now get {{afterBringDown}}.",
+  "step_divide": "Step {{step}}: Find the number that, when multiplied by {{divisor}}, gets close to {{current}} without going over. {{divisor}} × {{result}} = {{product}}. So the quotient digit is {{result}}.",
+  "step_multiply": "Step {{step}}: Multiply {{result}} × {{divisor}} = {{product}}.",
+  "step_subtract": "Step {{step}}: Subtract {{current}} - {{product}} = {{remainder}}.",
+  "step_choose_number": "Step {{step}}: {{current}} is {{comparison}} {{divisor}}, {{explanation}}",
+  "step_bring_down_after_subtract": "Step {{step}}: After bringing down {{nextDigit}}, we get {{afterBringDown}}. Compare with {{divisor}} to see if it can be divided.",
+  "comparison": {
+    "less": "less than",
+    "greater_equal": "greater than or equal to"
+  },
+  "explanation": {
+    "less": "cannot divide yet. We take the next digit.",
+    "greater_equal": "we can divide. Start dividing."
+  }
+}

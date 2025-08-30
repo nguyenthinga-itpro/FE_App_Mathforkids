@@ -1,0 +1,22 @@
+{
+  "headerTitle": "Bảng cửu chương",
+  "selectedOneTable": "Chọn một bảng cửu chương",
+  "tableTwo": "Bảng cửu chương 2",
+  "tableThree": "Bảng cửu chương 3",
+  "tableFour": "Bảng cửu chương 4",
+  "tableFive": "Bảng cửu chương 5",
+  "tableSix": "Bảng cửu chương 6",
+  "tableSeven": "Bảng cửu chương 7",
+  "tableEight": "Bảng cửu chương 8",
+  "tableNine": "Bảng cửu chương 9",
+  "memorize": "Ghi nhớ",
+  "explanation": "Lấy số {{multiplicand}} cộng chính nó {{multiplier}} {{times}}.",
+  "time": "lần",
+  "times": "lần",
+  "next": "Tiếp theo",
+  "practice": "Luyện tập",
+  "timesWord": "nhân",
+  "equalsWord": "bằng",
+  "selectNumberInBox": "Điền số thích hợp vào ô",
+  "submit": "Nộp"
+}

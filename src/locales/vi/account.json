@@ -1,0 +1,18 @@
+{
+  "title": "Tài khoản",
+  "subtitle": "Chọn tài khoản",
+  "parent": "Phụ huynh",
+  "confirmTitle": "Xác nhận",
+  "confirmPupil": "Chơi với tài khoản \"{{name}}\"?",
+  "yes": "Có",
+  "no": "Không",
+  "enterPin": "Nhập PIN để tiếp tục",
+  "forgotPin": "Quên PIN",
+  "confirm": "Xác nhận",
+  "cancel": "Hủy",
+  "invalidPinTitle": "PIN không hợp lệ",
+  "invalidPinMsg": "Vui lòng nhập đủ 4 chữ số.",
+  "incorrectPinTitle": "Sai PIN",
+  "incorrectPinMsg": "PIN bạn nhập không đúng.",
+  "errorTitle": "Lỗi"
+}

@@ -1,0 +1,121 @@
+{
+  "instruction": {
+    "enter_numbers": "Enter any two positive integers and click the 'Next' button."
+  },
+  "button": {
+    "next": "Next",
+    "back": "Back"
+  },
+  "addition": {
+    "step_intro": "Start adding from the Units column.",
+    "step_normal_with_remember": "Step {{step}}: {{d1}} + {{d2}} + {{carry}} = {{sum}}, since it's greater than 10, write {{resultDigit}} and carry over {{carryOut}}.",
+    "step_normal_with_carry": "Step {{step}}: {{d1}} + {{d2}} = {{sum}}, since it's greater than 10, write {{resultDigit}} and carry over {{carry}}.",
+    "step_normal_no_carry": "Step {{step}}: {{d1}} + {{d2}} = {{sum}}, write {{resultDigit}}, no need to carry.",
+    "step_final_carry": "Step {{step}}: All digits have been added, but there's still a carry of {{carry}}, so write it down in the next column."
+  },
+  "subtraction": {
+    "error_min_lt_sub": "Cannot subtract: the minuend is smaller than the subtrahend.",
+    "step_intro": "Let's perform subtraction step by step!",
+    "step_borrow_1": "Step {{step}} (column {{label}}): {{a}} is less than {{b}}, so need to BORROW a dozen (10) to {{adjustedA}}. Need to PAY a dozen (10) in the next column.",
+    "step_borrow_2": "We have: {{adjustedA}} - {{adjustedB}} = {{result}}, write {{result}}",
+    "step_normal": "Step {{step}} column ({{label}}): {{a}} - {{b}} = {{result}}.",
+    "step_normal_with_payback": "Step {{step}} column ({{label}}): {{a}} - {{b}} = {{result}}",
+    "step_payback": "(Paying back 1 borrowed in the previous step to {{b}})",
+    "final_result": "Final result: {{number1}} - {{number2}} = {{result}}.",
+    "remember_borrowing": "Remember, if there isn’t enough to subtract, you must borrow 1 from the next column!"
+  },
+  "multiplication": {
+    "step_intro": "Step {{step}}: Multiply the {{label}} digit of the multiplier by each digit of the multiplicand from right to left.",
+    "step_zero_rule": "Each time we multiply, the result shifts one column to the right!",
+    "step_detail_with_carry": "{{d2}} × {{d1}} = {{product}} → write {{digitCarry}}, carry {{nextCarry}}",
+    "step_detail_with_next": "{{d2}} × {{d1}} = {{product}} → write {{digit}}, carry {{nextCarry}}",
+    "step_detail_no_carry": "{{d2}} × {{d1}} = {{product}} → write {{digit}}",
+    "remember": ", carry {{nextCarry}}",
+    "first_add_note": "Finally, we add all partial products together.\n",
+    "step_add_column": "{{finalNote}}Column {{label}}: {{digits}} + carry {{carry}} = {{sum}} → write {{digit}}, carry {{nextCarry}}",
+    "step_final_carry": "Final carry: write {{carry}} to the highest place value.",
+    "step_final_title": "Final step: Add all partial products column by column:",
+    "final_result": "→ Final result: {{expression}} = {{result}}",
+    "summary": "To find the final result, add up the partial products:\n{{partials}}\n→ {{expression}} = {{result}}",
+    "partial": "Partial row",
+    "step_multiply_only": "{{d1}} × {{d2}} = {{product}}",
+    "step_digit_carry": "Common step",
+    "shift_zero": "Since this is the {{label}} digit, we add one zero at the end of the result.",
+    "step_detail_mul": "{{d2}} × {{d1}} = {{mul}}",
+    "step_detail_carry": "{{mul}} + carry {{carry}} = {{product}} → write {{digit}}, carry {{nextCarry}}",
+    "step_detail_final_digit": "{{d1}} × {{d2}} = {{product}} → write the full {{product}}",
+    "step_detail_final": "Since this is the last digit in this multiplication row, we write the full result: {{d1}} × {{d2}} = {{product}}",
+    "step_carry_final_add": "Then add the carry from the previous step: {{product}} + {{carry}} = {{sum}} → write {{nextDigit}}, carry {{nextCarry}}",
+    "step_carry_final_add_last": "{{product}} plus carry {{carry}} equals {{sum}} → write {{sum}}, no further carry since this is the last digit of {{d2}} x {{str1}}.",
+    "reveal_digit": "Result: {{product}}",
+    "number_text": {
+      "0": "zero",
+      "1": "one",
+      "2": "two",
+      "3": "three",
+      "4": "four",
+      "5": "five"
+    }
+  },
+  "place": {
+    "units": "Units",
+    "tens": "Tens",
+    "hundreds": "Hundreds",
+    "thousands": "Thousands",
+    "ten_thousands": "Ten-thousands",
+    "hundred_thousands": "Hundred-thousands",
+    "millions": "Millions",
+    "ten_millions": "Ten-millions",
+    "hundred_millions": "Hundred-millions",
+    "billions": "Billions"
+  },
+  "error": {
+    "invalid_input": "Please enter a valid positive integer."
+  },
+  "calculation": "Calculation",
+  "calculation_steps": "Calculation steps",
+  "step1_title": "Step 1: Arrange the numbers vertically",
+  "step1_description": "Write {{number1}} and {{number2}} so that the digits align in columns.",
+  "step1_subText": "Press (Next) to see detailed calculation steps.",
+  "step3_title": "Final result of the calculation",
+  "step3_description": "{{n1Str}} {{operator}} {{n2Str}} is: ",
+  "add_title": "Step 2: Add the digits",
+  "add_description": "Align the numbers correctly in columns and add from right to left.",
+  "sub_title": "Step 2: Subtract the digits",
+  "sub_description": "Align the numbers correctly in columns and subtract from right to left.",
+  "mul_title": "Step 2: Multiply step by step",
+  "mul_description": "We will multiply {{number1}} by {{number2}} from right to left, one digit at a time.",
+  "div_title": "Step 2: Start dividing",
+  "div_description": "Divide {{number1}} by {{number2}}, starting from the leftmost digit.",
+  "invalid_title": "Invalid operation",
+  "invalid_description": "Please select a valid operation.",
+  "horizontal": "Horizontal layout",
+  "vertical": "Vertical layout",
+  "skills": {
+    "addition": "Addition:",
+    "subtraction": "Subtraction:",
+    "multiplication": "Multiplication:",
+    "division": "Division:"
+  },
+  "speech": {
+    "selectOperator": "You selected {{operator}}. Please enter a new number."
+  },
+  "step_main": "Step {{step}}: {{current}} divided by {{divisor}} equals {{result}}. Write {{result}} in the quotient. {{result}} × {{divisor}} = {{sub}}, then subtract: {{current}} - {{sub}} = {{remainder}}.",
+  "step_divide": "Step {{step}}: Divide {{current}} by {{divisor}}. Since {{divisor}} × {{result}} = {{product}}, which is equal to or close to {{current}}, we write {{result}} in the quotient.",
+  "step_multiply": "Step {{step}}: Multiply {{divisor}} by {{result}}, which gives {{product}}.",
+  "step_subtract": "Step {{step}}: Subtract {{product}} from {{current}}, we get {{remainder}}.",
+  "step_compare_less": "Step {{step}}: {{current}} is smaller than {{divisor}}, so we cannot divide yet.",
+  "step_choose_number": "Step {{step}}: {{current}} is {{comparison}} {{divisor}}, so {{explanation}}",
+  "comparison.less": "less than",
+  "comparison.greater_equal": "greater than or equal to",
+  "explanation.less": "we cannot divide yet.",
+  "explanation.greater_equal": "we can divide, so we begin the division.",
+  "step_smaller_write_zero": "Step {{step}}: {{current}} is less than {{divisor}}, write 0 in the quotient.",
+  "step_cannot_divide": "Step {{step}}: {{dividend}} is less than {{divisor}}, so we cannot divide. Write 0 in the quotient.",
+  "less_then_bring_down": "Step {{step}}: We write {{result}} in the quotient.",
+  "step_bring_down": "Step {{step}}: Bring down one more digit, which is {{nextDigit}}, resulting in {{afterBringDown}}.",
+  "step_bring_down_after_subtract": "Step {{step}}: After subtracting, we automatically bring down one or more digits, here {{nextDigit}}, resulting in {{afterBringDown}} to continue dividing.",
+  "step_bring_down_extra": "Step {{step}}: Then bring down another digit, which is {{nextDigit}}, getting {{afterBringDown}}.",
+  "step_down_to_number_two": "Step {{step}}: Bring down {{nextDigit}}, we get {{afterBringDown}} to continue dividing.",
+  "result_with_remainder": "Get {{quotient}},\nremainder {{remainder}}"
+}

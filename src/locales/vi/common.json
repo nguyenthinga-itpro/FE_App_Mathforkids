@@ -1,0 +1,23 @@
+{
+  "lesson": "Bài học",
+  "exercise": "Luyện tập",
+  "test": "Kiểm tra",
+  "game": "Trò chơi",
+  "mission": "Nhiệm vụ",
+  "Addition": "Phép cộng",
+  "Subtraction": "Phép trừ",
+  "Multiplication": "Phép nhân",
+  "Division": "Phép chia",
+  "Expression": "Bảng cửu chương",
+  "edit": "Chỉnh sửa",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "success": "Thành công",
+  "error": "Lỗi",
+  "selectOption": "Chọn tùy chọn...",
+  "male": "Nam",
+  "female": "Nữ",
+  "grade": "Lớp",
+  "loading": "Đang tải...",
+  "contact": "Liên hệ"
+}

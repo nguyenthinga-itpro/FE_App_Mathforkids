@@ -1,0 +1,13 @@
+{
+  "Addition": "Addition",
+  "Subtraction": "Subtraction",
+  "Multiplication": "Multiplication",
+  "Division": "Division",
+  "lesson": "Lesson",
+  "exercise": "Exercise",
+  "test": "Test",
+  "pleaseSelectLevel": "Please select a level",
+  "selectLevels": "Select Levels",
+  "loading": "Loading",
+  "continue": "Continue"
+}
